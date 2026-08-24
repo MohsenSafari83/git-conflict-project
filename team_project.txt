@@ -2,3 +2,5 @@ Team Project
 Version 1.0
 Feature B implemented
 Project maintained with Git
+Rebase feature implemented
+
